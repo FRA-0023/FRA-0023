@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi there! 👋</h3>
+  <h3>Hello there! 👋</h3>
   <p><em>Translating market dynamics into decision models and deployable code.</em></p>
 </div>
 
