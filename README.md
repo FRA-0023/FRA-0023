@@ -24,12 +24,12 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&cache=refresh" alt="Excel" />
-  <img src="https://img.shields.io/badge/Gretl-B92025?style=for-the-badge" alt="Gretl" />
+  <img src="https://img.shields.io/badge/Gretl-B92025?style=for-the-badge" alt="Gretl" />  
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <br />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Causal_Inference-150458?style=for-the-badge&logo=databricks&logoColor=white" alt="Causal Inference" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <br />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
@@ -42,6 +42,6 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
   <p>📬 If you also think that "soft skills" is too weak a name for such crucial skills, perhaps we have a conversation to have.</p>
   <p>Feel free to reach out!</p>
   <a href="https://www.linkedin.com/in/francescocolombini/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://badgen.net/badge/icon/LinkedIn?icon=linkedin&label&color=0077B5" alt="LinkedIn" />
   </a>
 </div>
