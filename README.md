@@ -23,15 +23,13 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&cache=refresh" alt="Excel" />
-  <img src="gretl.jpg" height="24" align="absmiddle" alt="AMPL" /> <strong>Gretl</strong> />  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=libreofficecalc&logoColor=white&cache=refresh" alt="Excel" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <br />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FDD800?style=for-the-badge&logo=KNIME&logoColor=black" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Causal_Inference-150458?style=for-the-badge&logo=databricks&logoColor=white" alt="Causal Inference" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <br />
-  <img src="ampl-logo.png" height="24" align="absmiddle" alt="AMPL" /> <strong>AMPL</strong> />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
