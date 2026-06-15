@@ -31,6 +31,7 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
   <img src="https://img.shields.io/badge/Causal_Inference-150458?style=for-the-badge&logo=databricks&logoColor=white" alt="Causal Inference" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <br />
+  <img src="https://img.shields.io/badge/AMPL-000000?style=for-the-badge" alt="AMPL" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
