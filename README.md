@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <h3>Hello there! 👋</h3>
   <p><em>Translating market dynamics into decision models and deployable code.</em></p>
 </div>
@@ -26,7 +26,7 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=libreofficecalc&logoColor=white&cache=refresh" alt="Excel" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <br />
-  <img src="https://img.shields.io/badge/Machine_Learning-FDD800?style=for-the-badge&logo=KNIME&logoColor=black" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FED800?style=for-the-badge&logo=KNIME&logoColor=black" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Causal_Inference-150458?style=for-the-badge&logo=databricks&logoColor=white" alt="Causal Inference" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <br />
@@ -36,9 +36,32 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
   <br />
 </div>
 
+---
+
+### ⚡ Featured Systems & Core Engines
+
+- **[Economic Structural Resilience in OECD Countries](https://github.com/FRA-0023/Economic_Structural_Resilience_in_OECD_Countries)**  
+  *Macroeconomic shock resilience evaluated via Partial Order Theory (POSet) and discrete math—eliminating arbitrary index weighting.*
+
+- **[Causal Networks](https://github.com/FRA-0023/Causal-Networks)**  
+  *Applied causal inference framework across DAGs, d-separation, Meta-Learners (S/T/X), and real-world counterfactual evaluation.*
+
+- **[The Architecture of Opportunity](https://github.com/FRA-0023/The-Architecture-of-Opportunity)**  
+  *Deterministic 3-tier data engineering pipeline for creator economy ideation, fusing search intent with verified market supply.*
+
+- **[European Trade Transformation](https://github.com/FRA-0023/European_Trade_Transformation)**  
+  *11-year empirical analysis of Eurostat microdata, exposing the structural shift toward ICT and digital services exports.*
+
+- **[PHD Prof](https://github.com/FRA-0023/PHD_Prof)**  
+  *Crash-only document ETL pipeline with SHA-256 cryptographic state tracking and zero-token-waste Notion integration.*
+
+- **[Titanic Survival Econometric EDA](https://github.com/FRA-0023/Titanic_Survival_Econometric_EDA)**  
+  *Econometric deconstruction of disaster survival dynamics, isolating confounding variables, physical deck geography, and non-linear interactions.*
+
 <br />
+
 <div align="center">
-  <p>📬 If you also think that "soft skills" is too weak a name for such crucial skills, perhaps we have a conversation to have.</p>
+  <p>💬 If you also think that "soft skills" is too weak a name for such crucial skills, perhaps we have a conversation to have.</p>
   <p>Feel free to reach out!</p>
   <a href="https://www.linkedin.com/in/francescocolombini/">
     <img src="https://badgen.net/badge/icon/LinkedIn?icon=linkedin&label&color=0077B5" alt="LinkedIn" />
