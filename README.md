@@ -43,7 +43,7 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
 - **[Economic Structural Resilience in OECD Countries](https://github.com/FRA-0023/Economic_Structural_Resilience_in_OECD_Countries)**  
   *Macroeconomic shock resilience evaluated via Partial Order Theory (POSet) and discrete math—eliminating arbitrary index weighting.*
 
-- **[Causal Networks](https://github.com/FRA-0023/Causal-Networks)**  
+- **[Applied Causal Inference](https://github.com/FRA-0023/Applied-Causal-Inference)**  
   *Applied causal inference framework across DAGs, d-separation, Meta-Learners (S/T/X), and real-world counterfactual evaluation.*
 
 - **[The Architecture of Opportunity](https://github.com/FRA-0023/The-Architecture-of-Opportunity)**  
