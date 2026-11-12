@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <h3>Hello there! 👋</h3>
   <p><em>Translating market dynamics into decision models and deployable code.</em></p>
 </div>
@@ -7,13 +7,13 @@
 🧠 **Connecting economic theory with technical execution.** <br>
 🚀 **Building robust, antifragile strategies.** <br>
 
-I'm a Data Strategist and Data Science Master's student. I try to understand where the world is going before the market catches on. No crystal balls—just well-founded hypotheses, a few terabytes of reality, and the right Python and automation pipelines to stay ahead.
+I'm a Data Strategist and Data Science Master's student. I try to understand where the world is going before the market catches on. No crystal balls, just well-founded hypotheses, a few terabytes of reality, and the right Python and automation pipelines to stay ahead.
 
 ---
 
 ### 🏗️ Background & Focus
 
-- 🎓 Graduated in **Economics and Digital Firm**. My thesis, *"The Economics of Antifragility – Navigating the High-Tech Market Paradox in the Age of AI"*, isn't meant to stay on a shelf. It serves as my base framework for building resilient antifragile architectures and startup ideations.
+- 🎓 Graduated in **Economics and Digital Firm**. My thesis, *"The Economics of Antifragility: Navigating the High-Tech Market Paradox in the Age of AI"*, isn't meant to stay on a shelf. It serves as my base framework for building resilient antifragile architectures and startup ideations.
 - 💻 **What I'm building:** I focus on causal inference, edge-AI applications, and containerized automation. I spend my time bridging the gap between complex statistical models and high-impact business positioning.
 - 🎯 **The Goal:** To unite the engineering of value creation with strategic communication. Giving concrete, programmatic form to what otherwise seems merely complex.
 
@@ -40,23 +40,23 @@ I'm a Data Strategist and Data Science Master's student. I try to understand whe
 
 ### ⚡ Featured Systems & Core Engines
 
-- **[Economic Structural Resilience in OECD Countries](https://github.com/FRA-0023/Economic_Structural_Resilience_in_OECD_Countries)**  
-  *Macroeconomic shock resilience evaluated via Partial Order Theory (POSet) and discrete math—eliminating arbitrary index weighting.*
+- **[Data Factory OS](https://github.com/FRA-0023/Data_Factory)**  
+  *Strict architectural decoupling of deterministic econometric computation (pure Python) from strategic executive synthesis (LLM), eliminating mathematical hallucinations.*
 
-- **[Applied Causal Inference](https://github.com/FRA-0023/Applied-Causal-Inference)**  
-  *Applied causal inference framework across DAGs, d-separation, Meta-Learners (S/T/X), and real-world counterfactual evaluation.*
-
-- **[The Architecture of Opportunity](https://github.com/FRA-0023/The-Architecture-of-Opportunity)**  
-  *Deterministic 3-tier data engineering pipeline for creator economy ideation, fusing search intent with verified market supply.*
-
-- **[European Trade Transformation](https://github.com/FRA-0023/European_Trade_Transformation)**  
-  *11-year empirical analysis of Eurostat microdata, exposing the structural shift toward ICT and digital services exports.*
+- **[Bayesian Commercial Decision Engine](https://github.com/FRA-0023/Bayesian-Marketing-Engine)**  
+  *Four-tier quantitative marketing suite: Google Meridian Bayesian MMM, SHAP explainability, BG/NBD Customer Lifetime Value, and distributed Apache Spark churn pipelines.*
 
 - **[PHD Prof](https://github.com/FRA-0023/PHD_Prof)**  
-  *Crash-only document ETL pipeline with SHA-256 cryptographic state tracking and zero-token-waste Notion integration.*
+  *Crash-only document ETL pipeline extracting 300 DPI figures, LaTeX proofs, and speaker notes into structured Notion study chapters with SHA-256 cryptographic idempotency.*
 
-- **[Titanic Survival Econometric EDA](https://github.com/FRA-0023/Titanic_Survival_Econometric_EDA)**  
-  *Econometric deconstruction of disaster survival dynamics, isolating confounding variables, physical deck geography, and non-linear interactions.*
+- **[Economic Structural Resilience in OECD Countries](https://github.com/FRA-0023/Economic_Structural_Resilience_in_OECD_Countries)**  
+  *Macroeconomic shock resilience evaluated via Partial Order Theory (POSet) and discrete math, eliminating arbitrary index weighting.*
+
+- **[Applied Causal Inference](https://github.com/FRA-0023/Applied-Causal-Inference)**  
+  *Applied causal inference framework across DAGs, d-separation, Structural Causal Models, and Meta-Learners (S/T/X) to isolate true policy treatment effects beyond passive correlation.*
+
+- **[Newsletter Intelligence Engine](https://github.com/FRA-0023/Newsletter_Reader)**  
+  *Headless multi-domain intelligence engine: IMAP ingestion, single-pass Gemini structured inference into Notion, and real-time executive memo dispatch with 0 MB idle RAM footprint.*
 
 <br />
 
